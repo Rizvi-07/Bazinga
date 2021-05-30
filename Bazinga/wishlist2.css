@@ -1,0 +1,190 @@
+
+.image img{
+	
+	height:60px;
+	width:100px;
+	position:absolute;
+	padding-left:30px;
+	top:60px;
+	
+	
+}
+#l{
+	box-sizing: border-box;
+    border: 2px solid #ccc;
+	width: 200px;
+	height:40px;
+	font-size: 16px;
+}
+#menubar1{
+	
+	
+	list-style-type: none;
+    margin: 0;
+    padding-left: 300px;
+    overflow: hidden;
+    background-color: #194b91;
+	
+}
+
+li.menubar a, .dropbtn,li.login a{
+	
+	
+	 display: block;
+     color: white;
+     text-align: center;
+     padding: 30px;
+     text-decoration: none;
+}
+	
+li.menubar a:hover,.dropdown:hover .dropbtn,li.login a:hover{
+    background-color: #111111;
+}
+
+li.menubar {
+    float: left;
+}
+li.login,li.dropdown{
+	
+	float: left;
+}
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #194b90;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #111111}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.tab {
+	   position:relative;
+	  padding-left: 50px;
+}
+.list{
+	
+	float: left;
+	padding-left: 200px;
+	
+}
+.image img{
+	width:140px;
+	height:75px;
+	position:absolute;
+	top:8px;
+	 
+}
+ul {
+	list-style-type: none;
+	background-color: #194b90;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	
+	padding-left:600px;
+	
+	
+}
+
+
+li {
+	float: left;
+	
+}
+
+
+li a {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	display: block;
+	
+} 
+
+li a:hover {
+	background-color: #003366;
+	color: #999999;
+}
+
+#user  {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	display: block;
+	
+} 
+
+
+
+#img1{
+	
+	width:100px;
+	height:100px;
+}
+
+
+#img2{
+	
+		width:100px;
+	height:100px;
+}
+
+
+#img3{
+		width:100px;
+	height:100px;;
+}
+
+#img4{
+	
+		width:100px;
+	height:100px;
+}
+
+#tr1{
+	color:purple;
+	font-weight:bold;
+	
+}
+aside{
+	
+	padding-left: 800px;
+	
+}
+#hd1{
+	font-weight:bold;
+	top:100px;
+	color:#9f9faf;
+	font-size:30px;
+	
+	
+}
+.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}

@@ -1,0 +1,74 @@
+.image img{
+	width:140px;
+	height:75px;
+	position:absolute;
+	top:8px;
+	 
+}
+ul {
+	list-style-type: none;
+	background-color: #194b90;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	
+	padding-left:600px;
+	
+	
+}
+
+
+li {
+	float: left;
+	
+}
+
+
+li a {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	display: block;
+	
+} 
+
+li a:hover {
+	background-color: #003366;
+	color: #999999;
+}
+
+#user  {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	display: block;
+	
+} 
+
+#movieDescription{
+	border:1px solid #333;
+	position:absolute;
+	border-color:#a0a0aa;
+	top:100px;
+	left:50px;
+	width:1200px;
+	height:400px;
+}
+
+#movie_img{
+	position:absolute;
+	top:50px;
+	left:50px;
+	width:250px;
+	height:300px;
+}
+
+
+#description{
+	position:absolute;
+	top:50px;
+	left:320px;
+	color:#7477bc;
+}
