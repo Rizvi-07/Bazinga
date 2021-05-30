@@ -4,7 +4,6 @@ Tools:
 1. Html, CSS, PHP.
 2. If WampServer is used,the repository must be under "c:\wamp\www" directory.
 
-[![Watch the video](https://github.com/Oishee30/Bazinga-A-movie-basd-website-/blob/master/Bazinga/img/bazinga.png)](https://youtu.be/_qMcFik_XHI)
 
 <h3>Features</h3>
 <ul> 
